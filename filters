@@ -1,0 +1,18 @@
+! 2023-01-16 https://seekingalpha.com
+||seekingalpha.com/xgCxM9By/init.js$script,1p
+||seekingalpha.com/samw-service-worker.js$script,1p
+||www.googletagmanager.com/gtm.js?id=GTM-MSK9R8B$script,domain=seekingalpha.com
+||ak.sail-horizon.com/spm/spm.v1.min.js$script,domain=seekingalpha.com
+||www.googletagmanager.com/gtm.js$script,domain=seekingalpha.com
+
+! 2023-01-16 https://buy.tinypass.com
+||buy.tinypass.com/_sam/*$script,domain=buy.tinypass.com
+
+! 2023-01-16 https://seekingalpha.com
+||seekingalpha.com/mone_v2$xhr,1p
+||appleid.cdn-apple.com/appleauth/static/jsapi/appleid/1/en_US/*$script,domain=seekingalpha.com
+||buy.tinypass.com/checkout/template/cacheableShow$subdocument,domain=seekingalpha.com
+||connect.facebook.net/en_US/sdk.js$script,domain=seekingalpha.com
+||buy.tinypass.com/api/v3/anon/template/loadTemplateContext$xhr,domain=seekingalpha.com
+||c2.piano.io/xbuilder/experience/execute$xhr,domain=seekingalpha.com
+||accounts.google.com/gsi/client$script,domain=seekingalpha.com
